@@ -1,8 +1,20 @@
 body {
 	background-color: yellow;
-	color: cyan;
+	color: green;
 }
 
-h1 {
+p {
 	font-size: 64px;
+}
+
+.kokos {
+	color: red;
+}
+
+.meloun {
+	font-style: italic;
+}
+
+#jahudka {
+	background-color: tomato;
 }
